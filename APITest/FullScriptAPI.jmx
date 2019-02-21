@@ -156,7 +156,7 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-  &quot;first_name&quot;: &quot;testFirst&quot;,&#xd;
+  &quot;first_name&quot;: &quot;testFirstName&quot;,&#xd;
   &quot;last_name&quot;: &quot;testLast&quot;,&#xd;
   &quot;email&quot;: &quot;test@gmail.com&quot;,&#xd;
   &quot;date_of_birth&quot;: &quot;1980-01-01&quot;,&#xd;
